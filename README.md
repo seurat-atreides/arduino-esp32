@@ -41,7 +41,7 @@ Finally, if you're sure no one else had the issue, follow the [ISSUE_TEMPLATE](d
 
 ## ESP32Dev Board PINMAP
 
-![Pin Functions](docs/esp32_pinmap.png)
+![Pin Functions](docs/DOIT32devkitv1_pinmap.png)
 
 ## Hint
 
